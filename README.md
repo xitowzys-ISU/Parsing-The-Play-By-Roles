@@ -113,3 +113,9 @@ fun main() {
   // TODO: 6) вывести словарь в нужном формате
 }
 ```
+
+Демонстрация работы:
+
+| ![demo_1](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/mobile-development/Parsing-the-play-by-roles/-/raw/main/raw/demo_1.png?inline=false) |
+| ------------------------------------------------------------ |
+
