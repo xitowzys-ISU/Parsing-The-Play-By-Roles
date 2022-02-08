@@ -116,6 +116,6 @@ fun main() {
 
 Демонстрация работы:
 
-| ![demo_1](https://gitlab.com/ISU-Applied-Computer-Science/5th-semester/mobile-development/Parsing-the-play-by-roles/-/raw/main/raw/demo_1.png?inline=false) |
+| ![demo_1](/raw/demo_1.png) |
 | ------------------------------------------------------------ |
 
